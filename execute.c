@@ -14,7 +14,7 @@ int execute(char *line, stack_t **stack, unsigned int index, FILE *file)
 		{"swap", swap}, {"add_c", add_c}, {"nop", nop}, {"sub", sub},
 		{"div_c", div_c}, {"mul", mul}, {"mod", mod}, {"pchar", pchar},
 		{"pstr", pstr}, {"rotl", rotl}, {"rotr", rotr}, {"queue", queue},
-		{"stack", stack}, {NULL, NULL}
+		{NULL, NULL}
 	};
 
 	unsigned int i = 0;

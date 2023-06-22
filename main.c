@@ -1,3 +1,4 @@
+#define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
@@ -7,7 +8,7 @@
 #include <ctype.h>
 #include "monty.h"
 
-buff_f buff = {NULL, NULL, NULL, 0};
+buff_f buff = {NULL, 0, NULL, 0};
 /**
  * main - monty code interpreter
  * @argc: number of arguments
