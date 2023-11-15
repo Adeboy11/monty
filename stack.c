@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * stack - display the top
+ * stack - display the top of the stack
  * @head: stack head
  * @index: line no
  * Return: none

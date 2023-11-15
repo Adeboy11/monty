@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * queue - displays the top
+ * queue - displays the top of the stack
  * @head: stack head
  * @index: line no
  * Return: none

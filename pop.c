@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * pop - display the top
+ * pop - displays the top
  * @head: stack head
  * @index: line no
  * Return: none

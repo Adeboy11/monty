@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * pall - display the stack
+ * pall - displaing the stack
  * @head: stack head
  * @index: argument not used
  * Return: none

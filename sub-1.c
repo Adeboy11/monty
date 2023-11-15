@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
-  *sub- sustrate from the stack
+  *sub- sustract from the stack
   *@head: stack head
   *@index: line no
   *Return: no return

@@ -1,7 +1,6 @@
 #include "monty.h"
 /**
- * pchar - displays the char at the top
- * followed by a new line
+ * pchar - displays the character at the top
  * @head: stack head
  * @index: line no
  * Return: none

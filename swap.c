@@ -1,8 +1,8 @@
 #include "monty.h"
 /**
- * swap - swap top two elements of the stack.
+ * swap - swap top two ele of the stack.
  * @head: stack head
- * @index: line no
+ * @index: line number
  * Return: none
 */
 void swap(stack_t **head, unsigned int index)

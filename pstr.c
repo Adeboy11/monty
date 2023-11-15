@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * pstr - display the string starting at the top of the stack
+ * pstr - display the string at the top of the stack
  * @head: stack head
  * @index: line no
  * Return: none
